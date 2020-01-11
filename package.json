@@ -1,0 +1,12 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "description": "Projet",
+  "main": "main.js",
+  "repository": "https://github.com/To5H1Ro/David.git",
+  "author": "David <david51430@hotmail.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
